@@ -154,29 +154,33 @@
   <mj-body width="640px" background-color="#ffffff">
     <mj-section css-class="header" padding-left="10px">
       <mj-column width="250px">
-        <mj-image css-class="header-logo" src="http://127.0.0.1:5501/assets/logo.png" width="133px" align="left" padding-left="0" alt="" />
+        <mj-image css-class="header-logo" src="https://i.ibb.co/KVHB2dT/logo.png
+" width="133px" align="left" padding-left="0" alt="GNC" />
       </mj-column>
       <mj-group css-class="icon-size">
         <mj-column padding="0">
-          <mj-image padding="0" src="http://127.0.0.1:5501/assets/wellness.png" width="35px" alt="" />
+          <mj-image padding="0" src="	https://i.ibb.co/ncHP5vv/wellness.png
+" width="35px" alt="wellness" />
           <mj-text font-size="10px" padding="10px" align="center">
             Wellness
           </mj-text>
         </mj-column>
         <mj-column padding="0">
-          <mj-image padding="0" src="http://127.0.0.1:5501/assets/fitness.png" width="35px" alt="" />
+          <mj-image padding="0" src="	https://i.ibb.co/CvnZXhp/fitness.png
+" width="35px" alt="fitness" />
           <mj-text font-size="10px" padding="10px" align="center">
             Fitness
           </mj-text>
         </mj-column>
         <mj-column padding="0">
-          <mj-image padding="0" src="http://127.0.0.1:5501/assets/diet.png" width="35px" alt="" />
+          <mj-image padding="0" src="	https://i.ibb.co/WP5n4p5/diet.png" width="35px" alt="diet" />
           <mj-text font-size="10px" padding="10px" align="center">
             Diet
           </mj-text>
         </mj-column>
         <mj-column padding="0">
-          <mj-image padding="0" src="http://127.0.0.1:5501/assets/login.png" width="35px" alt="" />
+          <mj-image padding="0" src="	https://i.ibb.co/G70Ts2v/login.png
+" width="35px" alt="login" />
           <mj-text font-size="10px" padding="10px" align="center">
             Login
           </mj-text>
@@ -193,12 +197,13 @@
         <mj-text css-class="font" font-size="16px" font-weight="bold" color="#2f333a" font-style="italic" align="center">
           ANTHONY, YOU ARE <span class="points">150 POINTS</span> AWAY FROM YOUR NEXT REWARD
         </mj-text>
-        <mj-image src="http://127.0.0.1:5501/assets/save25.jpg" alt="" />
+        <mj-image src="	https://i.ibb.co/KbryWBy/save25.jpg" alt="Save $25 off of $125 or more" />
       </mj-column>
     </mj-section>
     <mj-section padding="0px 0 20px 0px">
       <mj-column>
-        <mj-image src="http://127.0.0.1:5501/assets/hero-promo.jpg" alt="" />
+        <mj-image src="	https://i.ibb.co/9c1c387/hero-promo.jpg
+" alt="buy 2, get 1 free" />
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -227,7 +232,7 @@
     </mj-section>
     <mj-section padding="20px 0 10px">
       <mj-column>
-        <mj-image src="http://127.0.0.1:5501/assets/big-lit.jpg" alt="" />
+        <mj-image src="	https://i.ibb.co/yVWvV1G/big-lit.jpg" alt="Big Lit pre-workout" />
       </mj-column>
     </mj-section>
     <mj-section padding="0 53px">
@@ -253,7 +258,7 @@
     </mj-section>
     <mj-section padding="0">
       <mj-column>
-        <mj-image src="http://127.0.0.1:5501/assets/giveaway.jpg" alt="" />
+        <mj-image src="	https://i.ibb.co/QPHGB5m/giveaway.jpg" alt="$200,000 giveaway" />
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -268,7 +273,7 @@
     </mj-section>
     <mj-section padding="0 0 10px">
       <mj-column>
-        <mj-image src="http://127.0.0.1:5501/assets/appstore.png" width="180px" alt="" />
+        <mj-image src="	https://i.ibb.co/bJXhbwM/appstore.png" width="180px" alt="Appstore" />
       </mj-column>
       <mj-column width="8%">
         <mj-text>
@@ -276,12 +281,12 @@
         </mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="http://127.0.0.1:5501/assets/googleplay.png" width="180px" alt="" />
+        <mj-image src="	https://i.ibb.co/BcF01Rr/googleplay.png" width="180px" alt="Google Play" />
       </mj-column>
     </mj-section>
     <mj-section padding="0">
       <mj-column>
-        <mj-image padding-top="0" src="http://127.0.0.1:5501/assets/bogo.jpg" alt="" />
+        <mj-image padding-top="0" src="https://i.ibb.co/ZHb6yft/bogo.jpg" alt="Buy 1 Get 1 free" />
       </mj-column>
     </mj-section>
     <mj-section padding="0">
@@ -323,19 +328,20 @@
       <mj-section padding="0">
         <mj-group css-class="icon-size-bottom">
           <mj-column>
-            <mj-image src="http://127.0.0.1:5501/assets/fb.png" padding="0 5px" width="12px" alt="" />
+            <mj-image src="https://i.ibb.co/Qr11s76/fb.png" padding="0 5px" width="12px" alt="facebook" />
           </mj-column>
           <mj-column>
-            <mj-image src="http://127.0.0.1:5501/assets/pin.png" padding="0 5px" width="24px" alt="" />
+            <mj-image src="https://i.ibb.co/PC2M3pF/pin.png" padding="0 5px" width="24px" alt="Pinterest" />
           </mj-column>
           <mj-column>
-            <mj-image src="http://127.0.0.1:5501/assets/tw.png" padding="0 5px" width="24px" alt="" />
+            <mj-image src="	https://i.ibb.co/X8hY7zG/tw.png" padding="0 5px" width="24px" alt="Twitter" />
           </mj-column>
           <mj-column>
-            <mj-image src="http://127.0.0.1:5501/assets/yt.png" padding="0 5px" width="24px" alt="" />
+            <mj-image src="	https://i.ibb.co/YB0Ym49/yt.png" padding="0 5px" width="24px" alt="Youtube" />
           </mj-column>
           <mj-column>
-            <mj-image src="http://127.0.0.1:5501/assets/insta.png" padding="0 5px" width="24px" alt="" />
+            <mj-image src="	https://i.ibb.co/mSGX3pf/insta.png
+" padding="0 5px" width="24px" alt="Instagram" />
           </mj-column>
         </mj-group>
       </mj-section>
@@ -372,7 +378,7 @@
             ̌Don't miss out! Make sure to add GNC (gnc@email.gnc.com) to your email address book/safe senders list or drag this email to your Gmail Primary folder to ensure you hear from us
           </mj-text>
           <mj-text padding="20px 20px 0px" line-height="20px" font-family="Helvetica,Arial,sans-serif" font-size="16px" align="center" color="#ffffff">
-            ̌You have received this email at GIZZARDCHRONICLES@GMAIL.COM. To receive fewer emails or unsubscribe, <a href="#" class="click-here">click here</a>.
+            ̌You have received this email at LIFELINEMAIN@GMAIL.COM. To receive fewer emails or unsubscribe, <a href="#" class="click-here">click here</a>.
           </mj-text>
           <mj-text padding="20px 20px 0px" line-height="20px" font-family="Helvetica,Arial,sans-serif" font-size="16px" align="center" color="#ffffff">
             ̌View our Privacy Policy, <a href="#" class="click-here">click here</a>.
