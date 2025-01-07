@@ -154,7 +154,7 @@
   <mj-body width="640px" background-color="#ffffff">
     <mj-section css-class="header" padding-left="10px">
       <mj-column width="250px">
-        <mj-image css-class="header-logo" src="https://i.ibb.co/KVHB2dT/logo.png
+        <mj-image css-class="header-logo" src="https://i.postimg.cc/dtZkYmM9/logo.png
 " width="133px" align="left" padding-left="0" alt="GNC" />
       </mj-column>
       <mj-group css-class="icon-size">
